@@ -1,0 +1,4 @@
+start = 13
+finish = 5
+
+expected cost: 26
